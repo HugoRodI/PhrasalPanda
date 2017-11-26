@@ -26,7 +26,7 @@ namespace PhrasalPanda
         
         private void PopulatePhrasalVerbList()
         {
-            using (var reader = new StreamReader(@"../Verbs/PhrasalVerbs.txt"))
+            using (var reader = new StreamReader(@"Verbs/PhrasalVerbs.txt"))
             {
                 while (!reader.EndOfStream)
                 {
