@@ -13,7 +13,8 @@ When the user run out of lives, the game is over!
  It follows the format: Phrasal verb name;Phrasal verb meaning.
 
 ## Installation
-An executable file 'PhrasalPanda.exe' is in the PhrasalPanda/PhrasalPanda folder.
+An compressed .rar file 'PhrasalPanda.rar' is in the PhrasalPanda/PhrasalPanda folder.
+Unzip and execute it!
 
 ## Contributing
 PhrasalPanda is an open source project. If you feel that PhrasalPanda or the
